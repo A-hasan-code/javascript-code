@@ -11,4 +11,4 @@ let b = "12";
 console.log(typeof b)
 let change = Number(b);
 console.log(typeof change)
-    //string  conversation
+    //operation
